@@ -1,0 +1,2 @@
+script: steveo nil -wx rw- --x 
+script: rita nil rw- --- --- 

@@ -1,0 +1,37 @@
+User root created
+User root logged in
+User steveo created
+User rita created
+Group testers created
+The username exist, create user failed, please use other name
+User root logged out
+ERROR:Password or Username is incorrect 
+User steveo logged in
+Filescript with owner steveoand default permissions created
+User steveo wrote to script:echo Hello World!
+Permissions for scriptset to -wx rw- --x by steveo
+ERROR:File does not exist
+ERROR current user is not the owner and not root
+FIle script  execute bysteveo
+User steveo logged out
+ERROR:user must be logged in first!
+User root logged in
+The username exist, create user failed, please use other name
+ERROR:The group name is existed, create group failed, please use other name
+User rita added to group testers
+User rita added to group testers
+ERROR:File does not exist
+FIle script  execute byroot
+User root logged out
+User rita logged in
+ERROR:The file name is existed, create file failed, please use other name
+Filescript with owner ritaand default permissions created
+Error, Access Denied
+User rita wrote to script:echo Hello World!
+Error, Access Denied
+User rita read script as:
+FIle script  execute byrita
+FIle script  execute byrita
+ERROR:only root user can  add group
+ERROR:only root user can  add group
+User rita logged out
